@@ -71,8 +71,8 @@ MIT License (for code components). Research content remains confidential academi
 
 ## 📧 Contact
 
-For academic inquiries: [Institutional Email]@iitkgp.ac.in
+For inquiries: iknir1234@gmail.com
 
 ---
 
-*Note: This implementation is part of ongoing research at IIT Kharagpur (2023-2024).*
+*Note: This implementation was a part of research at IIT Kharagpur (2023-2024).*
